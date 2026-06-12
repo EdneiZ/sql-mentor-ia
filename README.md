@@ -60,6 +60,8 @@ Resposta:
 ```text
 INNER JOIN retorna apenas registros com correspondência entre as tabelas.
 ```
+<img width="589" height="325" alt="image" src="https://github.com/user-attachments/assets/31c3500b-9aa7-4c4e-9e7d-26c969d54297" />
+
 
 ## Autor
 
