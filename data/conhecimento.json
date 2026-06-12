@@ -1,0 +1,62 @@
+[
+    {
+        "pergunta": "select",
+        "resposta": "SELECT é utilizado para consultar dados em uma tabela."
+    },
+    {
+        "pergunta": "where",
+        "resposta": "WHERE é utilizado para filtrar registros."
+    },
+    {
+        "pergunta": "insert",
+        "resposta": "INSERT é utilizado para adicionar novos registros."
+    },
+    {
+        "pergunta": "update",
+        "resposta": "UPDATE é utilizado para alterar registros existentes."
+    },
+    {
+        "pergunta": "delete",
+        "resposta": "DELETE é utilizado para remover registros."
+    },
+    {
+        "pergunta": "inner join",
+        "resposta": "INNER JOIN retorna apenas registros com correspondência entre as tabelas."
+    },
+    {
+        "pergunta": "left join",
+        "resposta": "LEFT JOIN retorna todos os registros da tabela da esquerda."
+    },
+    {
+        "pergunta": "right join",
+        "resposta": "RIGHT JOIN retorna todos os registros da tabela da direita."
+    },
+    {
+        "pergunta": "group by",
+        "resposta": "GROUP BY agrupa registros para cálculos agregados."
+    },
+    {
+        "pergunta": "order by",
+        "resposta": "ORDER BY ordena os resultados de uma consulta."
+    },
+    {
+        "pergunta": "cte",
+        "resposta": "CTE é uma expressão de tabela comum criada utilizando WITH."
+    },
+    {
+        "pergunta": "subquery",
+        "resposta": "Subquery é uma consulta dentro de outra consulta."
+    },
+    {
+        "pergunta": "view",
+        "resposta": "VIEW é uma consulta armazenada que pode ser utilizada como tabela virtual."
+    },
+    {
+        "pergunta": "trigger",
+        "resposta": "TRIGGER é executada automaticamente quando ocorre um evento na tabela."
+    },
+    {
+        "pergunta": "stored procedure",
+        "resposta": "Stored Procedure é um conjunto de comandos SQL armazenados no banco."
+    }
+]
